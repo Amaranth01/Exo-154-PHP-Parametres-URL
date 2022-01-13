@@ -10,8 +10,14 @@
  */
 
 // TODO Votre code ici.
+?>
+<ul>
+    <li>
+        <a href="exo1.php?iteration=10">iteration</a>
+    </li>
+</ul>
 
-
+<?php
 /**
  * Exo 2
  * ------
@@ -19,8 +25,9 @@
  * Créez au moins 10 liens à l'aide d'une boucle !!!
  * Pour chaque lien, le paramètre iteration prendra la valeur actuelle de votre variable de boucle ( $i par exemple ).
  */
-
-
-
-
-
+?>
+<ul>
+    <li>
+        <a href="exo2.php?iteration=10">iteration2</a>
+    </li>
+</ul>
